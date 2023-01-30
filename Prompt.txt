@@ -1,0 +1,146 @@
+Sort the behavioral tests given below by assigning them percentages which sum up to 100 in descending order for a person working as a "Manager HR". Only answer to sum percentages assigned to behavioral tests reaches 100, then stop assigning any more percentages or behavioral tests.
+Negotiation skills
+Action-oriented
+Active Listening Skills
+Adaptability
+Adventurous
+Altruism
+Ambitious
+Amiable
+Analytical
+Appreciative
+Articulate
+Artistic
+Assertive
+Attentive
+Authentic
+Balanced
+Bold
+Business ethics
+Calm
+Captivating
+Careful
+Charismatic
+Charming
+Clearsighted
+Clever
+Collaborative
+Communicative
+Compassionate
+Competitive
+Conceptual skills
+Confident
+Conflict management
+Conscientious
+Considerate
+Convincing
+Cooperative
+Coordinate
+Counselling
+Courageous
+Creative
+Critical thinker
+Curious
+Curiousity
+Customer Relationship
+Decisive
+Dedication
+Delegation
+Deliberate
+Design
+Detail-oriented
+Determination
+Discipline
+Emotional intelligence
+Empathy
+Empower
+Energetic
+Engagement
+Entertaining
+Enthusiastic
+Fair
+Fast
+Flexible
+Focused
+Formulation
+Friendly
+Generous
+Growth mindset
+GW-Ethics
+Helpful
+Honest
+Hopeful
+Humble
+Humorous
+Idealistic
+Imaginative
+Industrious
+influence
+Ingenious
+Initiate
+Innovate
+Inquisitive
+Inspirational
+Integrity
+Intelligent
+Judgment
+Leadership
+Lively
+Logical
+Manageable
+Modest
+Motivation
+Negotiation
+Observant
+Open-minded
+Optimistic
+Orderly
+Organized
+Outgoing
+Oversight
+Patience
+Peaceful
+Perception
+Perseverant
+Persistence
+Persistent
+Persuasive
+Planner
+Practical
+Precise
+Presentation skills
+Problem-Solving Skills
+Prudent
+Resolute
+Resourceful
+Respectful
+Responsible
+Self-awareness
+Self-controlled
+Simplify
+Social
+Spiritual
+Spontaneous
+Straightforward
+Strategic
+Supervise
+Tactful
+Teamwork
+Thoughtful
+Thrifty
+Time management
+Tolerant
+Troubleshooting
+Trustworthy
+Understanding
+Understanding Social Cues
+Versatile
+Visionary
+Warm
+Wise
+Honesty
+goal oriented
+result driven
+high achievement motive
+performance management
+Caring
