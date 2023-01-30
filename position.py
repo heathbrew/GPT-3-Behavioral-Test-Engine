@@ -1,7 +1,7 @@
 import openai
 import os
 
-api_key = os.environ["OPENAI_API_KEY"] = "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"
+api_key = os.environ["OPENAI_API_KEY"] = "your key"
 if api_key is None:
     raise ValueError("Please set the OPENAI_API_KEY environment variable.")
 
